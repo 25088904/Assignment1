@@ -1,0 +1,7 @@
+PRODUCT REPORT
+========================================
+A55,PS5,Gaming Console,50000.0
+========================================
+TOTAL PRODUCT COUNT: 1
+TOTAL PRODUCT VALUE: R50000.0
+AVERAGE PRODUCT VALUE: R50000.0
